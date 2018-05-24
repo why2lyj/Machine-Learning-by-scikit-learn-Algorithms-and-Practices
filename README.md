@@ -13,3 +13,10 @@
 - 第9章朴素贝叶斯算法，首先从贝叶斯定理谈起，引入了朴素贝叶斯分类法；然后通过一个简单的例子说明了算法的基本原理；接着介绍了概率分布的概念及几种典型的概率分布；最后通过一个文档分类实例来说明朴素贝叶斯算法的应用。
 - 第10章PCA算法，首先介绍了PCA的算法原理；然后通过一个简单的模拟运算过程帮助读者理解该算法的原理和实现步骤；最后介绍了PCA算法背后的物理含义。本章在讲解的过程中顺便给读者推荐了一些优秀的线性代数资源，供读者参考。
 - 第11章k-均值算法，首先介绍了该算法的基本原理及关键迭代步骤；然后通过一个简单的例子，介绍了如何使用scikit-learn中的k-均值算法解决聚类问题；最后使用一个文本聚类分析的例子介绍了k-均值算法的应用，并介绍了典型的无监督机器学习算法的性能评估指标。
+
+
+## 运行环境
+
+请参考 [requirements](https://github.com/why2lyj/Machine-Learning-by-scikit-learn-Algorithms-and-Practices/blob/master/code/requirements.txt).
+
+笔者使用 scikit-learn 0.19.1，Python 3.X 版本，在第4章 k-邻近算法 因版本问题无法运行，原无法运行代码[ch04.01.ipynb](https://github.com/why2lyj/Machine-Learning-by-scikit-learn-Algorithms-and-Practices/blob/master/code/ch04.01.ipynb)，使用 0.19.1 版本可运行代码[ch04.01_ver.0.19.1.ipynb]()
